@@ -2,15 +2,15 @@
 //Sentry, but for ranged units.
   {
      "name": "Spotter I",
-     "prerequisites": ["Accuracy III","Barrage III"],
+     "prerequisites": ["Scouting III","Survivalism III","Shock III","Drill III","Accuracy III","Barrage III"],
      "uniques": ["[+1] Sight"],
-     "unitTypes": ["Archery","Ranged Gunpowder","Siege"]
+     "unitTypes": ["Ranged Gunpowder","Gunpowder","Mounted","Scout","Sword","Archery","Ranged Gunpowder","Siege"]
   },
   {
      "name": "Spotter II",
      "prerequisites": ["Spotter I"],
      "uniques": ["Can see over obstacles"],
-     "unitTypes": ["Archery","Ranged Gunpowder","Siege"]
+     "unitTypes": ["Ranged Gunpowder","Gunpowder","Mounted","Scout","Sword","Archery","Ranged Gunpowder","Siege"]
   },
 //Ships can see over obstacles once you have modern tech (not in for now)
   {
