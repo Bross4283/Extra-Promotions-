@@ -102,4 +102,19 @@
      "uniques": ["[+1] Sight <when [Embarked]>"],
      "unitTypes": ["Ranged Gunpowder","Archery"]
   },
+  {
+     "name": "Ignore Terrain Cost",
+     "uniques": ["[+1] Sight <when [Embarked]>"],
+     "unitTypes": ["All"]
+  },
+  {
+     "name": "Janissary",
+     "uniques": ["[+1] Sight <when [Embarked]>"],
+     "unitTypes": ["All"]
+  },
+  {
+     "name": "Rejuvenation",
+     "uniques": ["[+1] Sight <when [Embarked]>"],
+     "unitTypes": ["All"]
+  },
 ]
