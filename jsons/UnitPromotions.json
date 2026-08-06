@@ -105,16 +105,16 @@
   {
      "name": "Ignore Terrain Cost",
      "uniques": ["Ignores terrain cost"],
-     "unitTypes": ["All"]
+     "unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Scout","Mounted","Armored","Siege","Helicopter"]
   },
   {
      "name": "Janissary",
      "uniques": ["Heals [50] damage if it kills a unit"],
-     "unitTypes": ["All"]
+     "unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Scout","Mounted","Armored","Siege","Helicopter"]
   },
   {
      "name": "Rejuvenation",
      "uniques": ["All healing effects doubled"],
-     "unitTypes": ["All"]
+     "unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Scout","Mounted","Armored","Siege","Helicopter"]
   },
 ]
